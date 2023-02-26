@@ -1,0 +1,20 @@
+---
+:id: 120405632
+:submitters:
+- :name: QINGWEN BAO
+  :email: u1243331@utah.edu
+- :name: WENLIN LI
+  :email: u1327012@utah.edu
+- :name: ROBERT LI
+  :email: u1212360@utah.edu
+- :name: JULIAN ZHOU
+  :email: u1263519@utah.edu
+- :name: QIMENG CHAO
+  :email: u1297640@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-04-07 05:56:02.605356000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-04-06 22:56:02.605356000 Z
+:status: processed
+:score: 99.0

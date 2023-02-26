@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>Icons/artist.png</file>
+        <file>Icons/eraser.png</file>
+        <file>Icons/line.png</file>
+        <file>Icons/office-material.png</file>
+        <file>Icons/zoom-in (1).png</file>
+        <file>Icons/zoom-out.png</file>
+        <file>Icons/color-palette_1.png</file>
+        <file>Icons/paint.png</file>
+        <file>Icons/redo.png</file>
+        <file>Icons/down-arrow.png</file>
+        <file>Icons/up-arrow.png</file>
+        <file>Icons/undo.png</file>
+        <file>Icons/circle.png</file>
+        <file>Icons/rectangle.png</file>
+    </qresource>
+</RCC>
