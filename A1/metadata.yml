@@ -1,0 +1,12 @@
+---
+:id: 106737331
+:submitters:
+- :name: ROBERT LI
+  :email: u1212360@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-01-20 23:23:52.586712000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-01-20 15:23:52.586712000 Z
+:status: processed
+:score: 100.0
